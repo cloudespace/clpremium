@@ -1,2 +1,2 @@
 # clpremium
-cinelivre
+landingpage
